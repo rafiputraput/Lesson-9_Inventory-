@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomDatabaseSample</string>
+    <string name="insert_name">Introduce Nombre</string>
+    <string name="insert_surname">Introduce Apellido</string>
+    <string name="insert_age">Introduce Edad</string>
+    <string name="save">Guardar</string>
+    <string name="delete">Delete</string>
+</resources>
